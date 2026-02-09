@@ -27,29 +27,28 @@
 		return Curitiba()
  ```
 ## Languages & Programming
-- Know/Using
+Know/Using
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,kotlin,cpp" />
   </a>
 </p>
 
-
-- Frameworks & Libraries
+Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
   </a>
 </p>
 
-- O.Systes & Softwares
+O.Systes & Softwares
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,androidstudio,vscode,pycharm,arduino,blender" />
   </a>
 </p>
 
-- Databases and Version Control
+Databases and Version Control
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,git,github" />
