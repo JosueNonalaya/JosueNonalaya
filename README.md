@@ -42,11 +42,15 @@
 </p>
 
 ## Operating Systems
-<p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,android" />
+  </a>
 </p>
 
 ## Databases and Cloud hosting
 <p>
+	
 </p> 
 
 ## Softwarer and Tools
