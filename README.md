@@ -31,13 +31,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,cpp,kotlin" />
   </a>
-  <a href="https://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=javascript,python,cpp,kotlin" />
-  </a>
 </p>
 
+
 ## Frameworks and Libraries
-<p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,npm" />
+  </a>
 </p>
 
 ## Operating Systems
