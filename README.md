@@ -26,7 +26,7 @@
 	def getCity():
 		return Curitiba()
  ```
-## Programming Languages
+## Languages & Programming
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,kotlin,cpp" />
@@ -34,14 +34,14 @@
 </p>
 
 
-## Frameworks and Libraries
+## Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
   </a>
 </p>
 
-## Operating Systems / Softwares
+## O.Systes & Softwares
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,androidstudio,vscode,pycharm,arduino,blender" />
