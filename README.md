@@ -35,28 +35,30 @@
 </p>
 
 
-## Frameworks & Libraries
-<p align="center">
+- Frameworks & Libraries
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
   </a>
 </p>
 
-## O.Systes & Softwares
-<p align="center">
+- O.Systes & Softwares
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,androidstudio,vscode,pycharm,arduino,blender" />
   </a>
 </p>
 
-## Databases and 
-<p>
-	
+- Databases and Version Control
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+  </a>
 </p> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,notion,powershell,github" />
+    <img src="https://skillicons.dev/icons?i=,notion,powershell" />
   </a>
 </p>
 
