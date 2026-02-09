@@ -41,21 +41,21 @@
   </a>
 </p>
 
-## Operating Systems
+## Operating Systems / Softwares
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,android" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,androidstudio,vscode,pycharm,arduino,blender" />
   </a>
 </p>
 
-## Databases and Cloud hosting
+## Databases and 
 <p>
 	
 </p> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,blender,arduino,css,html,git,nodejs,notion,php,powershell,pycharm,github" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,notion,powershell,github" />
   </a>
 </p>
 
