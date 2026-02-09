@@ -53,8 +53,10 @@
 	
 </p> 
 
-## Softwarer and Tools
-<p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,blender,arduino,css,html,git,nodejs,notion,php,powershell,pycharm,vue,vite,github" />
+  </a>
 </p>
 
 ## Projects
