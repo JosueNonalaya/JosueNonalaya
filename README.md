@@ -29,7 +29,7 @@
 ## Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,cpp,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,kotlin,cpp" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 ## Frameworks and Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,npm" />
+    <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,blender,arduino,css,html,git,nodejs,notion,php,powershell,pycharm,vue,vite,github" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,blender,arduino,css,html,git,nodejs,notion,php,powershell,pycharm,github" />
   </a>
 </p>
 
