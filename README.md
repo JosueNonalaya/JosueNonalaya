@@ -8,12 +8,10 @@
    </h3>   
 </div>
 
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-## Who am I?
+## About me
 
  ```python
-  class WhoAmI:
+  class About:
     user = 'Josue Nonalaya'
 	current_uni = "PUCPR"
     course = "Software Engineer"
