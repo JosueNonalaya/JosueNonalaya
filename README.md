@@ -29,14 +29,11 @@
 
  
 ## Github Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
-|---|---|
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JosueNonalaya&theme=dark&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 
 ## Programming Languages
 <p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
 </p>
 
 ## Frameworks and Libraries
