@@ -27,7 +27,10 @@
 		return Curitiba()
  ```
 ## Programming Languages
-<p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,python,c++,kotlin" />
+  </a>
 </p>
 
 ## Frameworks and Libraries
