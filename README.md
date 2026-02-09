@@ -8,7 +8,7 @@
 	<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=1BD2C4&background=FFFFFF00&center=true&vCenter=true&width=508&separator=%3C&lines=Hi+Josue+Nonalaya+here%2C+pleasure!%3CWelcome+to+my+repositories+%3A)%3CFeel+free+to+look+around+;)" alt="Typing SVG" /></a>
 </p>
 
-## About me
+# About me
 
  ```python
   class About:
@@ -27,7 +27,7 @@
 		return Curitiba()
  ```
 # Languages & Programming
-#Know/Using
+## Know/Using
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,kotlin,cpp" />
@@ -35,7 +35,7 @@
 </p>
 
 
-# Frameworks & Libraries
+## Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
