@@ -34,12 +34,14 @@ Know/Using
   </a>
 </p>
 
+
 Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
   </a>
 </p>
+
 
 O.Systes & Softwares
 <p align="left">
@@ -48,6 +50,7 @@ O.Systes & Softwares
   </a>
 </p>
 
+<h2>Hola<h2/>
 Databases and Version Control
 <p align="left">
   <a href="https://skillicons.dev">
