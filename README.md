@@ -28,7 +28,7 @@
  ```
 ## Languages & Programming
 - Know/Using
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,kotlin,cpp" />
   </a>
