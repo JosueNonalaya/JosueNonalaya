@@ -35,7 +35,7 @@ Know/Using
 </p>
 
 
-Frameworks & Libraries
+# Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
