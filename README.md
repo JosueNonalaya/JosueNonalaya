@@ -27,7 +27,7 @@
 		return Curitiba()
  ```
 # Languages & Programming
-## Know/Using
+ Know/Using
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,kotlin,cpp" />
@@ -35,7 +35,7 @@
 </p>
 
 
-## Frameworks & Libraries
+ Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
@@ -43,28 +43,23 @@
 </p>
 
 
-O.Systes & Softwares
+ O.Systes & Softwares
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,androidstudio,vscode,pycharm,arduino,blender" />
   </a>
 </p>
 
-<h2>Hola<h2/>
-Databases and Version Control
+
+ Databases and Version Control
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,git,github" />
   </a>
 </p> 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,notion,powershell" />
-  </a>
-</p>
 
-## Projects
+# Projects
 
 <a href="https://github.com/Nneji123/Website-Blocker">
 
