@@ -5,7 +5,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/JosueNonalaya">Josue Nonalaya</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-	<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=1BD2C4&background=FFFFFF00&center=true&vCenter=true&width=508&separator=%3C&lines=Hi+Josue+Nonalaya+here%2C+pleasure!%3CWelcome+to+my+repositories+%3A)%3CFeel+free+to+look+around+;)" alt="Typing SVG" /></a>
+	<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=1BD2C4&background=FFFFFF00&center=true&vCenter=true&width=508&separator=%3C&lines=Hi+,its+nice+have+you%2C+here!%3CWelcome+to+my+repositories+%3A)%3CFeel+free+to+look+around+;)" alt="Typing SVG" /></a>
 </p>
 
 # About me
@@ -14,7 +14,7 @@
   class About:
     user = 'Josue Nonalaya'
 	current_uni = "PUCPR"
-    course = "Software Engineer"
+    course = "Software Engineering"
 	hobbies = [
 				'3Dprint',
  				'Reading',
@@ -22,7 +22,7 @@
 				'Play Guitar',
 				'Maker ;)'
 			]
-	
+	languages = ['Spanish', 'Portuguese', 'English']
 	def getCity():
 		return Curitiba()
  ```
