@@ -2,13 +2,16 @@
 **JosueNonalaya/JosueNonalaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/JosueNonalaya">Josue Nonalaya</a>'s Profile 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://github.com/JosueNonalaya">Josue Nonalaya!</a>👋</h1>
 </p>
 <p align="center">
-	<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=1BD2C4&background=FFFFFF00&center=true&vCenter=true&width=508&separator=%3C&lines=Hi+It's+nice+to+have+you%2C+here!%3CWelcome+to+my+repositories+%3A)%3CFeel+free+to+look+around+;)" alt="Typing SVG" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,php,python,java,cpp,react,tailwind,linux,windows,vscode,pycharm,arduino,mysql,git,github" />
+  </a>
 </p>
 
-# About me
+
+## About me
 
  ```python
   class About:
@@ -26,40 +29,12 @@
 	def getCity():
 		return Curitiba()
  ```
-# Programming Skills
- Know/Using
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,cpp" />
-  </a>
-</p>
 
 
- Frameworks & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap,tailwind,npm" />
-  </a>
-</p>
 
 
- O.Systes & Softwares
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,androidstudio,vscode,pycharm,arduino,blender" />
-  </a>
-</p>
 
-
- Databases and Version Control
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github" />
-  </a>
-</p> 
-
-
-# Projects
+## Projects
 
  
 ## Github Stats
